@@ -23,3 +23,5 @@ The above files also include:
 - Training, validation and testing data generators
 - Building and training of models
 - Evaluation of models using classification reports and confusion matrices
+
+[ContourClassifier.ipynb](https://github.com/dolphin-acoustics-vip/Whistle_Classification/blob/main/ContourClassifier.ipynb) is some exploratory code written as the basis for a more formal investigation of repertoire classification using unsupervised methods.
