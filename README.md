@@ -24,4 +24,8 @@ The above files also include:
 - Building and training of models
 - Evaluation of models using classification reports and confusion matrices
 
-[ContourClassifier.ipynb](https://github.com/dolphin-acoustics-vip/Whistle_Classification/blob/main/ContourClassifier.ipynb) is some exploratory code written as the basis for a more formal investigation of repertoire classification using unsupervised methods.
+### CountourClassifier
+[ContourClassifier.ipynb](https://github.com/dolphin-acoustics-vip/Whistle_Classification/blob/main/ContourClassifier.ipynb) is some exploratory code written as the basis for a more formal investigation of repertoire classification using unsupervised methods. It seeks to serve as an alternative to ARTWarp for unsupervised whistle clustering. See below for an exampleof its output.
+
+![image](https://github.com/dolphin-acoustics-vip/Whistle_Classification/assets/60829930/6512a847-eb95-4df0-83e6-098ad2bc7819)
+
